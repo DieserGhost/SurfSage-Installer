@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SurfSage Installer", "SurfSage Installer\SurfSage Installer.pyproj", "{96230D77-2DF7-4829-93E6-B8C5F479D68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96230D77-2DF7-4829-93E6-B8C5F479D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96230D77-2DF7-4829-93E6-B8C5F479D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F139E4A-670E-4889-A777-69537A579E37}
+	EndGlobalSection
+EndGlobal
